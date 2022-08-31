@@ -1,0 +1,3 @@
+1.DES函數:把明文(至少八個字元)加密產生toencrypt.txt
+2.Encrypt函數:把密文嵌入testweb.html產生加密後的after.html
+3.Decrypt函數:從after.html取得密文
