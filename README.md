@@ -6,16 +6,20 @@
 
 ## 嵌入過程:
 DES加密成密文
+
 <img src="https://github.com/irene0516/Data_hiding_Web/blob/main/img_folder/encrypt.jpg" width = "600" alt="encrypt" align=center />
 <br><br>
 密文嵌入CSS檔案中
+
 <img src="https://github.com/irene0516/Data_hiding_Web/blob/main/img_folder/embbeding.jpg" width = "600" alt="embbeding" align=center />
 
 ## 提取過程:
 CSS檔案中提取密文
+
 <img src="https://github.com/irene0516/Data_hiding_Web/blob/main/img_folder/extract.jpg" width = "600" alt="extract" align=center />
 <br><br>
 密文解密
+
 <img src="https://github.com/irene0516/Data_hiding_Web/blob/main/img_folder/encrypt.jpg" width = "600" alt="encrypt" align=center />
 
 ## 藏入前後的網頁對比
