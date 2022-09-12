@@ -3,6 +3,8 @@
 * MATLAB
 * CSS
 * html
+## 藏入前後的網頁對比
+<img src="https://github.com/irene0516/Data_hiding_Web/blob/main/img_folder/result.jpg" width = "600" alt="result" align=center />
 
 ## 嵌入過程:
 DES加密成密文
@@ -21,6 +23,3 @@ CSS檔案中提取密文
 密文解密
 
 <img src="https://github.com/irene0516/Data_hiding_Web/blob/main/img_folder/encrypt.jpg" width = "600" alt="encrypt" align=center />
-
-## 藏入前後的網頁對比
-<img src="https://github.com/irene0516/Data_hiding_Web/blob/main/img_folder/result.jpg" width = "600" alt="result" align=center />
